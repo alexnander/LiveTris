@@ -4,8 +4,8 @@ Simple Web App game (most likely Tetris) that records a session and plays it bac
 
 ## Skill Showcase Objectives
 
-* Flask
 * Python
+* Flask
 * Javascript
 * AWS?
 * HTML5/CSS
