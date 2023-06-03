@@ -1,0 +1,15 @@
+body {
+    font-family: 'Audiowide', cursive;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+tr {
+    font-size: small;
+}
+
+.table th {
+    padding: 15px 3px 15px;
+}
